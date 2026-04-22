@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Form Demo',
+      title: 'Flutter Form jana abuzer',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -80,7 +80,7 @@ class _MyFormScreenState extends State<MyFormScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Flutter Form Demo'),
+        title: const Text('Flutter Form jana abuzer'),
       ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
